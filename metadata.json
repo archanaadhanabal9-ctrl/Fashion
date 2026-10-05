@@ -1,0 +1,6 @@
+{
+  "name": "Maison Sérénité — Haute Couture & Bespoke Fashion Boutique",
+  "description": "An exquisite luxury fashion boutique featuring handcrafted ready-to-wear collections, rare silk & cashmere tailoring, bespoke atelier appointments, and private styling sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
